@@ -16,3 +16,4 @@ Some useful website details for every computer science person
  ## CryptoCurrency
 - [What Cryptocurrency  enthusiasts won't tell](http://www.ofnumbers.com/2017/09/21/eight-things-cryptocurrency-enthusiasts-probably-wont-tell-you/) : Eight Things Cryptocurrency Enthusiasts Probably Won’t Tell You
 - [Blockchain Basics](https://www.sitepen.com/blog/2017/09/21/blockchain-basics/) : Great introduction to blockchain
+- [Crypto news and updates](https://cryptopanic.com/) : Great resources and news about crypto market

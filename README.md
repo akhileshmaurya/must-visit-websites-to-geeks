@@ -11,7 +11,7 @@ Some useful website details for every computer science person
  ## Learning code for beginners
 - [Codeacademy](https://www.codecademy.com) : Learn to code interactively, for free.
 - [freeCodeCamp](https://www.freecodecamp.org) : Learn to code and build projects for nonprofits. Build your portfolio anytime
-- [Reddit.com/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
+- [Reddit dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
 
  ## CryptoCurrency
 - [What Cryptocurrency  enthusiasts won't tell](http://www.ofnumbers.com/2017/09/21/eight-things-cryptocurrency-enthusiasts-probably-wont-tell-you/) : Eight Things Cryptocurrency Enthusiasts Probably Won’t Tell You

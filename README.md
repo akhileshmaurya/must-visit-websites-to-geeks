@@ -14,6 +14,7 @@ Some useful website details for every computer science person
 - [Reddit dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/) : interesting programming challenges where you can learn from looking at other's code , even if you are not able to solve code you can look at how others solved.
 - [GeeksForGeeks](https://www.geeksforgeeks.org/) : Best website for learning data structure , algorithms and many programming languages with optimize way.
 - [Exercism.io](http://exercism.io) : Solve practice problems in over 30 different languages, and share your solution with others.
+- [Just Read for Git](https://help.github.com/articles/removing-sensitive-data-from-a-repository/) : must read for git security
 
 
  ## CryptoCurrency
